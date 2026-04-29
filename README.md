@@ -1,6 +1,14 @@
 # imjasonh/setup-crane
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Install and authorize crane
+
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/imjasonh/setup-crane](https://github.com/imjasonh/setup-crane).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v0.5 | [`v0.5`](https://github.com/chainguard-actions/setup-crane/tree/v0.5) | — |
 
 ## Privacy
 
