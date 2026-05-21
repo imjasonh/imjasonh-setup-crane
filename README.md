@@ -6,7 +6,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v0.5 | [`v0.5`](https://github.com/chainguard-actions/setup-crane/tree/v0.5) | — |
+| v0.5 | [`v0.5`](https://github.com/chainguard-actions/imjasonh--setup-crane/tree/v0.5) | — |
 
 ## Privacy
 
