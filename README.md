@@ -1,5 +1,7 @@
 # imjasonh/setup-crane
 
+Install and authorize crane
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/imjasonh/setup-crane](https://github.com/imjasonh/setup-crane).
 
 ## Versions
